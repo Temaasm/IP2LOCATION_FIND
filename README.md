@@ -7,7 +7,6 @@ IP2CREATE_DATABASE.EXE COMPILER DATABASE
 IP2LOCATION_FIND.EXE WIEWER IP RESULT 
 ;*******************************************************************************
 
-
 ;*******************************************************************************
 How to Compile 
 1 install Masm32  C:\Masm32
@@ -16,7 +15,6 @@ How to Compile
 4 Drop in FASMW.EXE     IP2LOCATION_FIND.asm    and Click Compile
 5 Drop in FASMW.EXE     IP2CREATE_DATABASE.asm  and Click Compile
 ;*******************************************************************************
-
 
 ;*******************************************************************************
 How to Run
