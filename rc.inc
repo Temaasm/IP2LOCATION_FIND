@@ -1,0 +1,5 @@
+D_MAIN equ 1004
+IDC_FIND equ 2
+IDC_IP equ 1003
+RT_MANIFEST equ 1
+RT_ICON equ 16
